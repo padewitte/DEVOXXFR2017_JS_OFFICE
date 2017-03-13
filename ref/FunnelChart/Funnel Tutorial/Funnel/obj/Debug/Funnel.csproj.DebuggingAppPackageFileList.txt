@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\FunnelManifest.xml
+C:\Users\admin\projects\js_html_in_office\ref\Office-Apps\FunnelChart\Funnel Tutorial\Funnel\bin\Debug\Funnel.debugapp

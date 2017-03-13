@@ -1,0 +1,7 @@
+False
+c725f42d-9a40-4a5d-8b67-293abe721794dcfd531d-c329-4743-91e1-1fa9dbeac005
+{0e887588-211a-439e-8797-2ed7555a3665}{558ec4ab-9412-470f-a2df-6723c998a518}
+{b29bf8a1-6d50-48d6-bd10-ed1ffb0b5fbf}
+1.0.0.0
+ModernTrend
+_layouts/15/

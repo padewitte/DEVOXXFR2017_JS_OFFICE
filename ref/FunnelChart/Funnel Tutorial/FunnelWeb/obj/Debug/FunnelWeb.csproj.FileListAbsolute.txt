@@ -1,0 +1,6 @@
+C:\Users\admin\projects\js_html_in_office\ref\Office-Apps\FunnelChart\Funnel Tutorial\FunnelWeb\bin\FunnelWeb.dll.config
+C:\Users\admin\projects\js_html_in_office\ref\Office-Apps\FunnelChart\Funnel Tutorial\FunnelWeb\bin\FunnelWeb.dll
+C:\Users\admin\projects\js_html_in_office\ref\Office-Apps\FunnelChart\Funnel Tutorial\FunnelWeb\bin\FunnelWeb.pdb
+C:\Users\admin\projects\js_html_in_office\ref\Office-Apps\FunnelChart\Funnel Tutorial\FunnelWeb\obj\Debug\FunnelWeb.csprojResolveAssemblyReference.cache
+C:\Users\admin\projects\js_html_in_office\ref\Office-Apps\FunnelChart\Funnel Tutorial\FunnelWeb\obj\Debug\FunnelWeb.dll
+C:\Users\admin\projects\js_html_in_office\ref\Office-Apps\FunnelChart\Funnel Tutorial\FunnelWeb\obj\Debug\FunnelWeb.pdb

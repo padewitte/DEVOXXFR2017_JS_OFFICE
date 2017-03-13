@@ -1,0 +1,5 @@
+C:\Users\admin\projects\js_html_in_office\ref\Office-Apps\ModernTrend\ModernTrendWeb\bin\ModernTrendWeb.dll.config
+C:\Users\admin\projects\js_html_in_office\ref\Office-Apps\ModernTrend\ModernTrendWeb\bin\ModernTrendWeb.dll
+C:\Users\admin\projects\js_html_in_office\ref\Office-Apps\ModernTrend\ModernTrendWeb\bin\ModernTrendWeb.pdb
+C:\Users\admin\projects\js_html_in_office\ref\Office-Apps\ModernTrend\ModernTrendWeb\obj\Debug\ModernTrendWeb.dll
+C:\Users\admin\projects\js_html_in_office\ref\Office-Apps\ModernTrend\ModernTrendWeb\obj\Debug\ModernTrendWeb.pdb
