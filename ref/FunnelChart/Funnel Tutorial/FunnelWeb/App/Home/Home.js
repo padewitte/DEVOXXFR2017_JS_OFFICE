@@ -18,12 +18,16 @@
         ['Then something', 1]];
 
     window.animationSpeed = 1000;
+    
 
     // The initialize function must be run each time a new page is loaded
-    Office.initialize = function (reason) {
+    //Office.initialize = function (reason) {
         $(document).ready(function () {
             app.initialize();
+            $('#footer').html(JSON.stringify(platform, " ", 3));
 
+            
+            
             window.animationSpeed = Office.context.document.settings.get('animationSpeed') ? Office.context.document.settings.get('animationSpeed') : 1000;
 
             $('#sampleButton').click(insertSampleData);
@@ -41,7 +45,7 @@
                 }
             })
         });
-    };
+    //};
 
     //Takes in a string of settingName and string, number, or object of settingValue
     //Creates new corresponding setting, then saves settings to the document
